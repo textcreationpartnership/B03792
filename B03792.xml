@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Information for the moderator of the presbytry of Glasgow and the agent for the kirk, against the titulars and tacksmen of the teinds within the paroch of Calder, and the heretors of the said paroch for their interests.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03792</idno>
+            <idno type="STC">Wing I168B</idno>
+            <idno type="STC">ESTC R178664</idno>
+            <idno type="EEBO-CITATION">53299126</idno>
+            <idno type="OCLC">ocm 53299126</idno>
+            <idno type="VID">179879</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03792)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179879)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2807:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Information for the moderator of the presbytry of Glasgow and the agent for the kirk, against the titulars and tacksmen of the teinds within the paroch of Calder, and the heretors of the said paroch for their interests.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Glasgow :</pubPlace>
+                  <date>1698?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  History --  17th century.</term>
+               <term>Church tax --  Scotland --  Glasgow --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:179879:1"/>
+            <head>INFORMATION For the Moderator of the Presbytry of <hi>Glaſgow</hi> and the Agent for the Kirk, <hi>Againſt</hi> The Titulars and Tackſmen of the Teinds within the Paroch of <hi>Calder,</hi> and the Heretors of the ſaid Paroch for their Intereſts.</head>
+            <p>THE Paroch of <hi>Calder</hi> being a part of the Subdeanery of <hi>Glaſgow,</hi> the Teinds of the haill Subdeanry did formerly belong to the Duke and Dutcheſs of <hi>Hamiltoun,</hi> and were purchaſed by the Colledge of <hi>Glaſgow,</hi> from the ſaids Duke and Dutcheſs about the year 1656.</p>
+            <p>Before the Colledge purchaſed theſe Teinds, there had been Application made to the Presbytery of <hi>Glaſgow,</hi> by the Heretors of the ſaid Paroch of <hi>Calder,</hi> for a Viſitation and Perambulation of the Paroch, in order to the Erection of a new Kirk. And accordingly the Paroch being duely Perembulat by the Miniſters Commiſſionat from the Presbytery upon their Report that the Paroch was ſo large, and the People ſo numerous therein, (being above 1500 Communicants,) and the way ſo impaſſible in the time of any wet Weather, there was no poſſibility to travel to the Church, the Presbytry found an abſolute neceſſity of a new Erection, and ſeriouſly recommended the perfecting of the ſame to the civil Judicatory, as their Act thereupon dated the 27th of <hi>June</hi> 1649, lying in Proces bears.</p>
+            <p>The proſecuting of this new Erection, according to the appointment of the Presbytry, being obſtructed by the troubles of theſe times, how ſoon ſoever the Country came to any Settlement, this Erection was ſo obviouſly neceſſary, that in <hi>anno</hi> 1656, the Presbytry of <hi>Glaſgow</hi> did again Perambulat the ſaid Paroch by Mr. <hi>John Carſtairs,</hi> Mr. <hi>Patrick Gilleſpie</hi> then Principal of the Col<g ref="char:EOLhyphen"/>ledge of <hi>Glaſgow,</hi> with other Miniſters, who, after much pains and diligence, for the ſpace of two whole Days, did Perambulat the ſame, and found the ſaid Erection neceſſary, &amp; reported the ſame to the Presbytry, who approved there<g ref="char:EOLhyphen"/>of, and recommended the ſame to the civil Judicatory, for eſtabliſhing &amp; per<g ref="char:EOLhyphen"/>fecting thereof, in the ſame manner as it had been done, in <hi>anno</hi> 1649. And for an
+<pb n="2" facs="tcp:179879:2"/>evidence of their Zeal and Pains in that matter, did ſet down the place where it was fitteſt the new Church ſhould be built, and expreſſed every particular Room whereof the new Paroch ſhould conſiſt, as the Act of the Presbytry lying in Proces will teſtifie.</p>
+            <p>No ſooner was the Government of the Church reſtored againſt the Uſur<g ref="char:EOLhyphen"/>pation of Epiſcopacy, but as ſoon the Presbytry of <hi>Glaſgow</hi> became convinced of the benefite and neceſſity of what that Presbytry had done in order to a new Erection at <hi>Calder,</hi> in the years 1649, and 1656, which good deſign of theirs had not been hindered, but by the Troubles, firſt in the State, and then in the Church; wherefore, the Presbytery having ſeen and conſidered both theſe Acts, did ratifie the ſame, and recommend the new Erection to the <hi>Commiſſion of Plantation of Kirks,</hi> to be accompliſhed and perfected according to Law, as their Act dated in <hi>anno</hi> 1697 lying in Proces bears.</p>
+            <p>In proſcecution of thir ſeveral Acts and Recommendations from the Preſ<g ref="char:EOLhyphen"/>bytry, there is Summonds raiſed before the <hi>Commiſſion for Plantation of Kirks,</hi> for erecting the new Church within the Paroch of <hi>Calder,</hi> and modifying a Stipend for the ſame, whereupon the Lords and others of that Commiſſion having appointed a Perambulation of that Paroch of <hi>Calder,</hi> by ſome of their own Number, who having made Report of the foreſaid Perambulation, find<g ref="char:EOLhyphen"/>ing a new Erection abſolutely neceſſary, both for the Miniſters ſake and the People, the ſame is now about to be adviſed.</p>
+            <p>At the Perambulation, made by Warrand of the <hi>Commiſſion,</hi> Mr. <hi>John Law</hi> one of the Regents of <hi>Glaſgow,</hi> having compeared in name of that Colledge, did Object againſt the Perambulation, and pretend, that the Teinds of that Paroch, being a Fond for a Profeſſion of Theology within the ſaid Colledge of <hi>Glaſ<g ref="char:EOLhyphen"/>gow,</hi> could not be diverted or applyed to any other uſe, to the prejudice of the Colledge; and therefore, at the adviſing the Report, it is like Compea<g ref="char:EOLhyphen"/>rance may be made for the Colledge, and the ſame Pretences pled, to hinder the new Erection.</p>
+            <p>To which it is anſwered for the Purſuers,
+<list>
+                  <item>1. That the Colledge Right being the ſame now that it was in <hi>anno</hi> 1656, and the Principal of the Colledge up<g ref="char:EOLhyphen"/>on that Perambulation having found a new Erection neceſſary, and ſubſcribed his conſent thereto, it is hoped neither the Colledge, nor the preſent Members thereof, will come ſhort of, nor ſo far condemn the Zeal of ſo faithful and pious a Miniſter, and their own Precedeſſor the then Principal, as to oppoſe the ſaid Erection.</item>
+                  <item>2. Thir Teinds being no part of the original Foundation of the Colledge, nor mortified them as a part of their Revenue, but purchaſed from the Duke of <hi>Hamilton</hi> for a price, they can be in no other caſe then other ſingular Succeſſors could have been. And therefore, as it would never have been contraverted, that if the Teinds had remained with the Duke of <hi>Hamilton,</hi> they would have been lyable for this new Erection, ſo they muſt be lyable in like manner when acquired by any ſingular Succeſſor; and the Caſe is the ſame as to Teinds, being lyable to the Stipend of the Church, as it is to Lands for payment of his Majeſties Ceſs and Publick Burdens; for as mortified Lands are free, yet Lands acquired by Hoſpitals or Colledges, are ſtill lyable as the Lands of any other Heretor, and ſo as the Colledge of <hi>Glaſ<g ref="char:EOLhyphen"/>gow</hi> would be lyable for the Ceſs and Publick Burders of Lands, if they ac<g ref="char:EOLhyphen"/>quired, ſo they muſt likewiſe be lyable for a Stipend, and Augmentations, as a natural and unſeperable Burden upon them, by whomſoever they be ac<g ref="char:EOLhyphen"/>quired, becauſe, originally <hi>debentur parocho,</hi> and ſo by tranſmiſſion of Rights
+<pb n="3" facs="tcp:179879:2"/>can be deprived of a ſutable Maintainance out of them.</item>
+                  <item>3. This was ſo far underſtood to be the intention and meaning of Parties, both Buyer and Seller, the time of this Purchaſe, that it will not be denyed, but the Diſpoſition made by the Duke of <hi>Hamilton</hi> in favours of the Colledge, was expreſly bur<g ref="char:EOLhyphen"/>dened with new Erections and Augmentations, and the Colledge having ac<g ref="char:EOLhyphen"/>quired them in that manner, can never plead to be exempted from that Bur<g ref="char:EOLhyphen"/>den by any voluntar Deed of their own afterward, whether by a voluntar Reſignation in his Majeſties Hands or otherwiſe, but notwithſtanding thereof theſe purchaſed Teinds muſt ſtill remain ſubject to the Burdens natural to them, and by expreſs Paction and Condition entailled upon them by the Diſpoſi<g ref="char:EOLhyphen"/>tion.</item>
+               </list>
+            </p>
+            <p>As to the pretence that thir Teinds are the Fond for a Sallary to the Pro<g ref="char:EOLhyphen"/>feſſor of Theology in the Colledge of <hi>Glaſgow.</hi>
+            </p>
+            <p>It is anſwered,
+<list>
+                  <item>1. That there was a Profeſſor of Theology eſtabliſhed and duly provided, for in that Colledge long before the year 1656; And therefore that Proviſion could never be inverted to any other uſe, to derive the Burden of a Profeſſor upon thir Teinds, which could never be lyable thereto in the manner they were acquired in prejudice of a new Erection and competent Proviſion for a Miniſter.</item>
+                  <item>2. Not only was the Profeſſor of Divi<g ref="char:EOLhyphen"/>nity duly provided for by the Conſtitution of the Colledge, but the Teinds of the Paroch of <hi>Govan</hi> were gifted by his Majeſty in favours of the prin<g ref="char:EOLhyphen"/>cipal of that Colledge, as a Sallary for his being a Profeſſor of Divinity there<g ref="char:EOLhyphen"/>in: And therfore ſeing competent Proviſion was made for two Profeſſors beſides thir Teinds; That pretence can never be ſuſtained to hinder this new Erection.</item>
+                  <item>3. Beſides the two Proviſions for Profeſſors of Theology above-mentioned, his Majeſty hath been pleaſed to beſtow 100 <hi>lib. S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>erling</hi> yearly out of the Biſhops Rents for that very end and uſe; And therefore, ſince there is a three fold Proviſion without any burden to their Teinds; Its hoped the Lords of the Commiſſion will not hinder this Erection upon pre<g ref="char:EOLhyphen"/>tence of a fourth ſuperfluous and unneceſſary Proviſion in favours of one ſingle Profeſſor, who by his Principals cannot own the Plurality of Benefices.</item>
+                  <item>4. Et <hi>ſeparatim,</hi> The Sub Deanry of <hi>Glaſgow</hi> whereof the Pariſh of <hi>Calder</hi> is a part, is a Benefice that conſiſts of near to 50 Chalder of Victual yearly of Parſonadge Teinds, beſides a Graſſom of 12000 Merks payable by the Heretors to the Colledge every 19 years, when their Tacks expires; And likeways beſides the Viccardge Teinds which properly did belong to the Miniſter of <hi>Calder</hi> as Viccar to the Sub-Dean; So that when 24 Chalders of Victual are payed to the three preſent Incumbents of the Sub-deanry, and although eight Chal<g ref="char:EOLhyphen"/>ders are granted to this new Erection, which is deſired, yet there remains 18 Chalders Victual, whereof allowing 12 to a Profeſſor there remains ſtill 6 to the Colledge, ſo that the Profeſſor of Theology is no ways prejudged by this new Erection.</item>
+                  <item>5. The Colledge themſelves are ſo little ſenſible of the want of a Fond wherewith to maintain their Profeſſor, that ſince thir Sum<g ref="char:EOLhyphen"/>monds were intented, that they have given 1200 Merks yearly to two new Profeſſors, <hi>viz.</hi> the one of Hiſtory and the other of Mathematicks; So that the Colledge cannot pretend neither the want of a Fond for a Profeſſor of Theology, nor ſo much Poverty as they plead.</item>
+               </list>
+            </p>
+            <p>As it is evident from the above Reaſons, that there is no difference as to the Teinds of <hi>Calder</hi> betwixt the Colledge and any other Titular and by the Perambuation 1656, lying in Proces, that Mr. <hi>Gillaſpie</hi> then Princip<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l
+<pb n="4" facs="tcp:179879:3" rendition="simple:additions"/>acquieſced to this new Erection; So Mr. <hi>Dunlop</hi> the preſent Principal at a meeting of the Presbytery having proponed his Objections, and received ſa<g ref="char:EOLhyphen"/>tisfactory Anſwers thereto that he was fully convinced of the neceſſity of a new Erection in that Pariſh, that the Purſuers are confident, that he will not marr, obſtruct or Divert ſo good and pious a Work; And there can no pre<g ref="char:EOLhyphen"/>tence of the leaſt Inconveniency from this Erection be alledged by the Colledge as an incouragement for other Pariſhes to ſeek the ſame, For as to any of the other five Paroches where they have Right to the Teinds, that there are four of them ſo ſmall that they are incapable of a new Erection, and the fifth is not a Pariſh of ſo many Communicants as to need two Kirks, not being ſo many be 5 or 600 as the Pariſh of <hi>Calder,</hi> and beſide theſe Teinds belong to the Colledge by another manner of Right, <hi>viz.</hi> Mortifications and other Rights.</p>
+            <p>In Reſpect whereof the Report ought to be adviſed, and the Kirk erected, and a Stipend modified in the Terms of the Lybel.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
